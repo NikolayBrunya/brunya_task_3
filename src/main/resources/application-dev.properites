@@ -1,0 +1,4 @@
+logging.level.org.springframework=DEBUG
+
+custom.config.variable=Dev_company
+myapp.test=Test
